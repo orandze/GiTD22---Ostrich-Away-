@@ -1,0 +1,19 @@
+This is a game I made for the GiTD contest #22 on Kongregate.com.
+If you are reading this, you are probably here to help me figure out some bugs :)
+
+First and foremost, there is a bug that wipes all saved data unexpectedly.
+I have been able to recreate this by simply bying an upgrade and clicking "Play Again."
+After playing for a few seconds, the upgrade screen will pop up again, and everything
+will have been wiped clean.
+
+Secondly, I'm having some issues with the offsets of the hitboxes on the enemies. This is because
+They've all been scaled down to 0.5 on the x and y. I haven't played around too much
+with hitboxes in the past so I'm not exactly sure how to adjust this.
+
+Those are my main concerns for now. My brain's pretty wiped from the programming spree this
+weekend. I shall continue work over the next few days, though.
+
+If you discover anything else that needs to be addressed or if you have a solution for something,
+I implore you to please message me on Kong at http://www.kongregate.com/accounts/orandze.
+
+Thanks for your time!
